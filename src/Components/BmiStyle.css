@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+.body{
+    border: 2px solid whitesmoke;
+    color: whitesmoke;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    margin-top: 10vh;
+}
+input{
+    background-color: black;
+    border: 2px solid whitesmoke;
+    color: whitesmoke;
+}
+button{
+    border: 2px solid whitesmoke;
+    background-color: black;
+    color: whitesmoke;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
